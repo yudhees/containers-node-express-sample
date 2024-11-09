@@ -6,10 +6,15 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": ["Node.js", "Express", "Docker"],
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Docker"
+  ],
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
+    "back4app-container": "file:",
     "express": "^4.17.1"
   }
 }
